@@ -1,0 +1,4 @@
+select ProductName, concat(CategoryName) From Products 
+join ProductCategory on Products.Id = ProductCategory.ProductId
+join Categories on Categories = ProductCategory.CategoryId
+group by ProductName
