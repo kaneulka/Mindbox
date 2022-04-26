@@ -1,0 +1,12 @@
+D:\Projects\MindBox\Square\bin\Debug\net6.0\Functions.deps.json
+D:\Projects\MindBox\Square\bin\Debug\net6.0\Functions.dll
+D:\Projects\MindBox\Square\bin\Debug\net6.0\ref\Functions.dll
+D:\Projects\MindBox\Square\bin\Debug\net6.0\Functions.pdb
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.dll
+D:\Projects\MindBox\Square\obj\Debug\net6.0\ref\Functions.dll
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Functions.pdb

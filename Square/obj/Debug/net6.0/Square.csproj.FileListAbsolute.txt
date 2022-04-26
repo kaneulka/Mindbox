@@ -1,0 +1,5 @@
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Square.csproj.AssemblyReference.cache
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Square.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Square.AssemblyInfoInputs.cache
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Square.AssemblyInfo.cs
+D:\Projects\MindBox\Square\obj\Debug\net6.0\Square.csproj.CoreCompileInputs.cache

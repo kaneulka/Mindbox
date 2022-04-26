@@ -3,9 +3,19 @@
   "ProjectMap": {
     "52cf4d6c-d861-466e-81eb-2a2cae31d191": {
       "ProjectGuid": "52cf4d6c-d861-466e-81eb-2a2cae31d191",
-      "DisplayName": "Square",
+      "DisplayName": "Functions",
       "ColorIndex": 0
+    },
+    "6dfd7213-0d6c-491c-aaa3-de45a5de1b90": {
+      "ProjectGuid": "6dfd7213-0d6c-491c-aaa3-de45a5de1b90",
+      "DisplayName": "UnitTestApp.Tests",
+      "ColorIndex": 1
+    },
+    "b7ee5b58-56a3-4d92-ad4e-67022d9e48e4": {
+      "ProjectGuid": "b7ee5b58-56a3-4d92-ad4e-67022d9e48e4",
+      "DisplayName": "App",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

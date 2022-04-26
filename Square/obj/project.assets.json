@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\MindBox\\Square\\Square.csproj",
-      "projectName": "Square",
-      "projectPath": "D:\\Projects\\MindBox\\Square\\Square.csproj",
+      "projectUniqueName": "D:\\Projects\\MindBox\\Square\\Functions.csproj",
+      "projectName": "Functions",
+      "projectPath": "D:\\Projects\\MindBox\\Square\\Functions.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\MindBox\\Square\\obj\\",
       "projectStyle": "PackageReference",
